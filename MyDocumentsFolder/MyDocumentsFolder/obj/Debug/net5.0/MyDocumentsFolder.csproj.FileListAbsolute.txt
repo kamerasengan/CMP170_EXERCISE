@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\MyDocumentsFolder.exe
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\MyDocumentsFolder.deps.json
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\MyDocumentsFolder.runtimeconfig.json
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\MyDocumentsFolder.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\MyDocumentsFolder.dll
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\ref\MyDocumentsFolder.dll
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\bin\Debug\net5.0\MyDocumentsFolder.pdb
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.dll
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\ref\MyDocumentsFolder.dll
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.pdb
+C:\Users\ADMIN\source\repos\MyDocumentsFolder\MyDocumentsFolder\obj\Debug\net5.0\MyDocumentsFolder.genruntimeconfig.cache

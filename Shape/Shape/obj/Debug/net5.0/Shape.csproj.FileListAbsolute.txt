@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\Shape.exe
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\Shape.deps.json
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\Shape.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\Shape.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\Shape.dll
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\ref\Shape.dll
+C:\Users\ADMIN\source\repos\Shape\Shape\bin\Debug\net5.0\Shape.pdb
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.dll
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\ref\Shape.dll
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.pdb
+C:\Users\ADMIN\source\repos\Shape\Shape\obj\Debug\net5.0\Shape.genruntimeconfig.cache

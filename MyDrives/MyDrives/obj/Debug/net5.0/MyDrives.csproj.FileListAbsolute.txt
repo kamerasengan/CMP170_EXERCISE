@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\MyDrives.exe
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\MyDrives.deps.json
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\MyDrives.runtimeconfig.json
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\MyDrives.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\MyDrives.dll
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\ref\MyDrives.dll
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\bin\Debug\net5.0\MyDrives.pdb
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.dll
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\ref\MyDrives.dll
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.pdb
+C:\Users\ADMIN\source\repos\MyDrives\MyDrives\obj\Debug\net5.0\MyDrives.genruntimeconfig.cache
